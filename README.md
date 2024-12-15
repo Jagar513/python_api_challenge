@@ -8,7 +8,11 @@
 # Northern Hemisphere Temperature vs. Latitude
 ![image](https://github.com/user-attachments/assets/b21cd7f0-750f-48b3-8975-44c81904dbab)
 
-#Southern Hemisphere Temperature vs. Latitude
+
+
+# Southern Hemisphere Temperature vs. Latitude
 ![image](https://github.com/user-attachments/assets/3d2c9613-ed20-4a1b-a688-2460dabdecdd)
+
+
 
 The linear regression between Northern and Southern Hemisphere for temperature vs latitude 
